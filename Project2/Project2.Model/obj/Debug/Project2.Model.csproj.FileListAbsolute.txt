@@ -1,0 +1,6 @@
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.Model\bin\Debug\Project2.Model.dll
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.Model\bin\Debug\Project2.Model.pdb
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.Model\obj\Debug\Project2.Model.csprojAssemblyReference.cache
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.Model\obj\Debug\Project2.Model.csproj.CoreCompileInputs.cache
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.Model\obj\Debug\Project2.Model.dll
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.Model\obj\Debug\Project2.Model.pdb

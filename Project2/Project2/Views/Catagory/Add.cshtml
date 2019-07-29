@@ -1,0 +1,91 @@
+﻿
+@{ 
+    Layout = null;
+        }
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div>
+        <div class="row">
+            <div class="col-sm-3"></div>
+
+
+            <div class="col-sm-6">
+                <div class="card text-center">
+                    <div class="card-header bg-success">
+                        <h3>Catagory Add</h3>
+                    </div>
+                    <div class="card-body">
+                        <h4 class="card-title">Catagory</h4>
+
+                        <div class="card card-body">
+                            <form method="post">
+                                <table>
+                                    <tr>
+                                        <td>Name</td>
+                                        <td>
+                                            <input type="text" name="Name" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Code</td>
+
+                                        <td>
+                                            <input type="text" name="Code" />
+                                        </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Action</td>
+
+                                        <td><input type="submit" value="Save" /></td>
+                                    </tr>
+                                </table>
+                            </form>
+                        </div>
+                       
+
+
+
+
+
+                    </div>
+                    <div class="card-footer text-muted">
+                       
+                        @if (ViewBag.SuccesMsg != null)
+                        {
+                            <h3 style="font-family:'Times New Roman', Times, serif; color:darkblue"> @ViewBag.SuccesMsg</h3>
+                        }
+                        @if (ViewBag.FailedMsg != null)
+                        {
+
+                            <h3 style="font-family:'Times New Roman', Times, serif; color:firebrick"> @ViewBag.FailedMsg</h3>
+                        }
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="col-sm-3"></div>
+        </div>
+
+    </div>
+
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/popper.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\Project2.DBContext.dll.config
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\Project2.DBContext.dll
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\Project2.DBContext.pdb
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\EntityFramework.dll
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\Project2.Model.dll
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\Project2.Model.pdb
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\EntityFramework.xml
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\obj\Debug\Project2.DBContext.csprojAssemblyReference.cache
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\obj\Debug\Project2.DBContext.csproj.CoreCompileInputs.cache
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\obj\Debug\Project2.DBContext.csproj.CopyComplete
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\obj\Debug\Project2.DBContext.dll
+E:\VS2017\WEB\prjt-git\WebApplication1\Project2\Project2.DBContext\obj\Debug\Project2.DBContext.pdb
